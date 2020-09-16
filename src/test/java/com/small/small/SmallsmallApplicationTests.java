@@ -1,0 +1,13 @@
+package com.small.small;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SmallsmallApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
